@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=640AFF&height=230&text=Changgwan%20Baek)
+![header](https://capsule-render.vercel.app/api?type=waving&color=640AFF&height=230&text=Baek Chang-gwan)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=doci1803)](https://solved.ac/doci1803)
 - - -
 <h2 align="center">Tech Stack</h2>
